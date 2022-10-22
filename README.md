@@ -3,10 +3,10 @@ Real-Time Communication System Powered by AI for Specially Abled
 
 Team members:
 
-Team Lead - SOWMIYA
+Team Lead - SOWMIYA P
 
-Team Member 2 - SANJAI
+Team Member 2 - SANJAI R
 
-Team Member 3 - KAVINKUMAR
+Team Member 3 - KAVINKUMAR S
 
-Team Member 4 - THENNARASU
+Team Member 4 - THENNARASU R
