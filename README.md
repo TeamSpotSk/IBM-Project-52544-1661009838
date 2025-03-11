@@ -5,7 +5,7 @@ Team members:
 
 Team Lead - SOWMIYA P
 
-Team Member 2 - Rahul K
+Team Member 2 - RAHUL K
 
 Team Member 3 - KAVINKUMAR S
 
